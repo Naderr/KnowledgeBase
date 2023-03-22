@@ -1,5 +1,0 @@
-skapa en fil och döp den till förnamn.txt (men med ert eget förnamn) 
-
-lägg till lite text i filen ni precis skapade (det behöver inte vara något speciellt)
-
-    gör nu ännu en commit
